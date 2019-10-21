@@ -1,6 +1,6 @@
 # LifeSports Challlenge and Hackathon
 
-### About Us
+https://testingttesty.herokuapp.com/ you can go check out the live app 
 
 ### Build Components
 
